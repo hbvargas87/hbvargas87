@@ -6,10 +6,10 @@ I’m passionate about transforming data into actionable insights and developing
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working at **Baxter Healthcare** as a **Senior Data Analyst**
-- 🌱 I’m learning **AWS Cloud Infrastructure** and working toward certifications
+- 🔭 I’m currently working as a **Senior Specialist**
+- 🌱 I've specialized in **AWS Cloud Infrastructure**, as well as **Microsoft Fabric** and working toward more certifications
 - 👯 I’m looking to collaborate on **Data Analytics projects**
-- 💬 Ask me about **Python, SQL, Power BI, or Tableau**
+- 💬 Ask me about **Python, SQL, Power BI, etc.**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hbvargas/?locale=en-US)
 
 ---
@@ -17,8 +17,8 @@ I’m passionate about transforming data into actionable insights and developing
 ## 🛠️ Tools & Technologies
 - **Languages:** Python, SQL  
 - **Data Visualization:** Power BI, Tableau  
-- **Cloud:** AWS (in progress 🚀)  
-- **Other:** Excel, Git, Jupyter Notebooks  
+- **Cloud:** AWS, Azure with Microsoft Fabric
+- **Other:** Git, Jupyter Notebooks, LLM
 
 ---
 
